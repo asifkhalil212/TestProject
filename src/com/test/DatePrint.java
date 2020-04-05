@@ -1,4 +1,4 @@
-package com.test;
+//package com.test;
 import java.util.Date;
 public class DatePrint {
 
