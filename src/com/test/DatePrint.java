@@ -4,7 +4,7 @@ public class DatePrint {
 
 	public static void main(String[] args) {
 		Date date = new Date();
-		System.out.println("Current Date: "+date);
+		System.out.println("Current Date and Time: "+date);
 		
 	}
 
